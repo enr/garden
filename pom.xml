@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.enr</groupId>
-  <artifactId>ideal-winner</artifactId>
-  <version>0.3.0-SNAPSHOT</version>
+  <artifactId>garden</artifactId>
+  <version>0.0.0-SNAPSHOT</version>
 
-  <name>ideal-winner</name>
-  <url>https://github.com/enr/ideal-winner</url>
+  <name>garden</name>
+  <url>https://github.com/enr/garden</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -141,10 +141,10 @@
             </dependencies>
             <configuration>
               <targetClasses>
-                <param>com.github.enr.idealwinner.*</param>
+                <param>com.github.enr.garden.*</param>
               </targetClasses>
               <targetTests>
-                <param>com.github.enr.idealwinner.*</param>
+                <param>com.github.enr.garden.*</param>
               </targetTests>
               <mutators>
                 <mutator>DEFAULTS</mutator>

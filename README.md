@@ -1,10 +1,10 @@
-# ideal-winner
+# garden
 
-![CI](https://github.com/enr/ideal-winner/workflows/CI/badge.svg)
+![CI](https://github.com/enr/garden/workflows/CI/badge.svg)
 
-[![](https://jitpack.io/v/enr/ideal-winner.svg)](https://jitpack.io/#enr/ideal-winner)
+[![](https://jitpack.io/v/enr/garden.svg)](https://jitpack.io/#enr/garden)
 
-Java library template
+Java library
 
 ## Development
 
@@ -52,7 +52,7 @@ Add the dependency
 ```xml
 <dependency>
     <groupId>com.github.enr</groupId>
-    <artifactId>ideal-winner</artifactId>
-    <version>${idealwinner.version}</version>
+    <artifactId>garden</artifactId>
+    <version>${garden.version}</version>
 </dependency>
 ```
